@@ -1,7 +1,7 @@
 🌸 Hi, I'm Maddi! 🌸
 ----
 
-I'm currently in the final year of my CS degree and the first year of my AI masters at Oregon State University (Go Beavs!🦫). When I'm not attached to my laptop I am either rollerblading or traveling.
+I'm currently in the final year of my CS bachelors degree and the first year of my AI masters at Oregon State University (Go Beavs!🦫). When I'm not attached to my laptop I am either rollerblading or traveling.
 
 
 💻 Right now I'm a: AI Research Intern
