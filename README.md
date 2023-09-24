@@ -1,16 +1,18 @@
-### Hi there 👋
+🌸 Hi, I'm Maddi! 🌸
+----
 
-<!--
-**mn-spawn/mn-spawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently in the final year of my CS degree and the first year of my AI masters at Oregon State University (Go Beavs!🦫). When I'm not attached to my laptop I am either rollerblading or traveling.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Right now I'm a: AI Research Intern/Student
+
+----
+
+🔍 Click below for my Linkedin and Resume
+
+<a href="/MadelineSpawnResume.pdf" download>
+  <img align="left" alt="Download my resume" src="/resume.png" />
+</a>
+<a href="https://www.linkedin.com/in/madeline-spawn/">
+  <img align="left" alt="My linkedin here" src="/linkedin.png" />
+</a>
