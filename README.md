@@ -4,11 +4,11 @@
 I'm currently in the final year of my CS degree and the first year of my AI masters at Oregon State University (Go Beavs!🦫). When I'm not attached to my laptop I am either rollerblading or traveling.
 
 
-💻 Right now I'm a: AI Research Intern/Student
+💻 Right now I'm a: AI Research Intern
 
 ----
 
-🔍 Click below for my Linkedin and Resume
+🔍 Click below for my Linkedin and resume
 
 <a href="/MadelineSpawnResume.pdf" download>
   <img align="left" alt="Download my resume" src="/resume.png" />
